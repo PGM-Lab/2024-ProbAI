@@ -13,6 +13,7 @@
 * Notebook: [BayesianNeuralNetworks](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/BayesianNeuralNetworks.ipynb)
 * Notebook: [students_BBVI](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/students_BBVI.ipynb)
 * Notebook: [solutions_BBVI](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/solutions_BBVI.ipynb)
+* Notebook: [PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/PPLs_Intro.ipynb)
 * Notebook: [student_simple_gaussian_model_pyro](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/student_simple_gaussian_model_pyro.ipynb)
 * Notebook: [solution_simple_gaussian_model_pyro](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/solution_simple_gaussian_model_pyro.ipynb)
 * Notebook: [Bayesian_linear_regression](https://colab.research.google.com/github/PGM-Lab/2024-ProbAI/blob/main/Day2-AfterLunch/notebooks/bayesian_linear_regression.ipynb)
